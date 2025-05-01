@@ -4,20 +4,30 @@ This project presents a Modular Automated Firefighting Robot, a prototype design
 
 📌 Key Features:
 
-🔍 Fire Detection: Uses flame sensors or IR sensors to detect fire in the vicinity.
-🚗 Autonomous Movement: Navigates through obstacles using motor drivers and basic line-following logic.
-💦 Extinguishing System: Water pump with a pipe system sprays water directly toward the fire source.
-🔌 Modular Design: Easy to replace or upgrade individual modules like sensors or motors.
-🔋 Battery Powered: Mobile and not dependent on external power while in action.
+Fire Detection: Uses flame sensors or IR sensors to detect nearby fire.
+
+Autonomous Movement: Navigates through obstacles using motor drivers and basic line-following logic.
+
+Extinguishing System: Water pump with a pipe system sprays water directly toward the fire source.
+
+Modular Design: Easy to replace or upgrade individual modules like sensors or motors.
+
+Battery Powered: Mobile and not dependent on external power while in action.
 
 💡 Tech Stack & Components:
 
 Arduino Uno
+
 L298N Motor Driver Module
+
 IR/Flame Sensors
+
 Relay Module
+
 Water Pump & Tube
+
 4WD Chassis
+
 Breadboard & Jumper Wires
 
 🛠️ How It Works:
